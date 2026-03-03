@@ -1,6 +1,9 @@
 # Daily Learning
 
 ## Morning Planning
+
+<img src="https://i.imgur.com/Tvdzgvz.jpeg" alt="IT'S ROBOT FIGHTING TIME" width="200" align="right">
+
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an acttual webpage.
